@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
-/*- 👨‍💻 All of my projects are available at [https://techsavvydev.netlify.app](https://techsavvydev.netlify.app)*/
-
 - 💬 Ask me about **PHP, Laravel, Wordpress, React, Node.js, Next.js, Vue.js, Mysql, Python, .Net**
 
 - 📫 How to reach me **midashand44@gmail.com**
