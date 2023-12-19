@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
-- 💬 Ask me about **PHP, Laravel, Wordpress, React, Node.js, Next.js, Vue.js, Mysql, Python, .Net**
+- 💬 Ask me about **PHP, Laravel, Wordpress, React, Node.js, Next.js, Vue.js, Svelte&SvelteKit, Solidjs, Mysql, Python, .Net**
 
 - 📫 How to reach me **midashand44@gmail.com**
 
