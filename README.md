@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **PHP, Laravel, Wordpress, React, Node.js, Next.js, Vue.js, Svelte&SvelteKit, Solidjs, Mysql, Python, .Net**
 
-- 📫 How to reach me **midashand44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
